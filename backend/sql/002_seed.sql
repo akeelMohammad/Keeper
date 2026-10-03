@@ -1,1 +1,0 @@
--- Seed data applied via: npm run db:seed
